@@ -1,9 +1,9 @@
-![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼+𝚃𝙾+𝚃𝙾𝙺𝚈𝙾+𝙱𝙾𝚃!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+𝙲𝙼+𝙱𝙾𝚃𝚂!;𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝚃𝙶+𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁+𝙱𝙾𝚃)</p>
+![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼+𝚃𝙾+𝚃𝙾𝙺𝚈𝙾+𝙱𝙾𝚃!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+𝙲𝙼+𝙱𝙾𝚃𝚂!;𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝚃𝙶+𝙰𝚄𝚃𝙾 𝙵𝙸𝙻𝚃𝙴𝚁+𝙱𝙾𝚃!)</p>
 <p align="center">
   <img src="Logo/PROFESSOR-BOT.jpeg" alt="MKN BOTZ LOGO">
 </p>
 <h1 align="center">
-  <b> 𝐏𝐑𝐎𝐅𝐄𝐒𝐒𝐎𝐑 𝐁𝐎𝐓</b>
+  <b> 𝕋𝕆𝕂𝕐𝕆 𝔹𝕆𝕋 </b>
 </h1>
 
 [![Stars](https://img.shields.io/github/stars/MrMKN/PROFESSOR-BOT?style=flat-square&color=yellow)](https://github.com/MrMKN/PROFESSOR-BOT/stargazers)
