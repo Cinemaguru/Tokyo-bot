@@ -1,6 +1,6 @@
 ![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=𝚆𝙴𝙻𝙲𝙾𝙼+𝚃𝙾+𝚃𝙾𝙺𝚈𝙾+𝙱𝙾𝚃!;𝙲𝚁𝙴𝙰𝚃𝙴𝙳+𝙱𝚈+𝚃𝙴𝙰𝙼+𝙲𝙼+𝙱𝙾𝚃𝚂!;𝙰+𝚂𝙸𝙼𝙿𝙻𝙴+𝚃𝙶+𝙰𝚄𝚃𝙾+𝙵𝙸𝙻𝚃𝙴𝚁+𝙱𝙾𝚃!)</p>
 <p align="center">
-  <img src="Logo.jpeg" alt="CM BOTS">
+  <img src="Logo.jpg" alt="CM BOTS">
 </p>
 <h1 align="center">
   <b> 𝕋𝕆𝕂𝕐𝕆 𝔹𝕆𝕋 </b>
